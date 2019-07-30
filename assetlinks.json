@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "blibli.mobile.commerce",
+    "sha256_cert_fingerprints":
+    ["6B:52:E4:74:54:F8:B6:69:48:BC:5B:9D:C8:0F:9F:04:2D:C7:67:D6:E0:8E:D0:F7:68:DD:A7:11:B8:26:50:BB"]
+  }
+}]
