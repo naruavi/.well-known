@@ -4,9 +4,10 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "android_app",
-      "package_name": "com.hdfcbank.payzapp",
+      "namespace": "SampleApp",
+      "package_name": "com.example.sampleapp",
       "sha256_cert_fingerprints": [
+        "30:9E:5E:D4:45:98:44:E6:54:C0:44:C8:80:8F:31:92:EF:4B:F7:2C:A4:65:C9:EA:95:DE:E5:6B:0F:8B:52:A4",
         "75:6C:EC:80:54:5C:07:DC:4A:21:74:DB:E0:87:CA:23:D3:6E:E4:97:34:1B:06:A8:A2:0C:68:BA:E3:A4:12:E5",
         "33:4F:9F:B4:E3:97:F4:43:12:D8:85:EF:33:03:9E:18:FD:D1:85:93:C9:73:2C:CE:2E:6B:9A:75:83:08:AF:AC"
       ]
